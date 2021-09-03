@@ -1,0 +1,8 @@
+
+/regres-in-api-core/target/
+/regres-in-api-test/target/
+/regres-in-api-test/allure-results/
+/regres-in-ui-test/target/
+/regres-in-ui-test/allure-results/
+/regres-in-ui-core/target/
+/.idea/
